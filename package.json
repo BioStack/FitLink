@@ -1,0 +1,26 @@
+{
+  "name": "fitlink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^1.5.2",
+    "chai": "^3.5.0",
+    "moment": "^2.11.2",
+    "q": "^1.4.1",
+    "request": "^2.69.0",
+    "rewire": "^2.5.1",
+    "should": "^8.2.2",
+    "simple-oauth2": "^0.5.1",
+    "string-format": "^0.5.0"
+  },
+  "devDependencies": {
+    "express": "^4.13.4",
+    "mocha": "^2.4.5"
+  }
+}

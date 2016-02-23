@@ -1,0 +1,275 @@
+[
+   {
+      "activities-heart": [
+         {
+            "customHeartRateZones": [],
+            "dateTime": "today",
+            "heartRateZones": [
+               {
+                  "caloriesOut": 5.34828,
+                  "max": 92,
+                  "min": 30,
+                  "minutes": 4,
+                  "name": "Out of Range"
+               },
+               {
+                  "caloriesOut": 0,
+                  "max": 129,
+                  "min": 92,
+                  "minutes": 0,
+                  "name": "Fat Burn"
+               },
+               {
+                  "caloriesOut": 0,
+                  "max": 157,
+                  "min": 129,
+                  "minutes": 0,
+                  "name": "Cardio"
+               },
+               {
+                  "caloriesOut": 0,
+                  "max": 220,
+                  "min": 157,
+                  "minutes": 0,
+                  "name": "Peak"
+               }
+            ],
+            "value": "76.33"
+         }
+      ],
+      "activities-heart-intraday": {
+         "dataset": [
+            {
+               "time": "00:00:00",
+               "value": 73
+            },
+            {
+               "time": "00:00:05",
+               "value": 74
+            },
+            {
+               "time": "00:00:20",
+               "value": 78
+            },
+            {
+               "time": "00:00:25",
+               "value": 78
+            },
+            {
+               "time": "00:00:40",
+               "value": 78
+            },
+            {
+               "time": "00:00:55",
+               "value": 77
+            },
+            {
+               "time": "00:01:00",
+               "value": 77
+            },
+            {
+               "time": "00:01:15",
+               "value": 77
+            },
+            {
+               "time": "00:01:20",
+               "value": 76
+            },
+            {
+               "time": "00:01:25",
+               "value": 76
+            },
+            {
+               "time": "00:01:40",
+               "value": 76
+            },
+            {
+               "time": "00:01:55",
+               "value": 77
+            },
+            {
+               "time": "00:02:00",
+               "value": 77
+            },
+            {
+               "time": "00:02:10",
+               "value": 78
+            },
+            {
+               "time": "00:02:25",
+               "value": 78
+            },
+            {
+               "time": "00:02:30",
+               "value": 77
+            },
+            {
+               "time": "00:02:40",
+               "value": 74
+            },
+            {
+               "time": "00:02:50",
+               "value": 73
+            }
+         ],
+         "datasetInterval": 1,
+         "datasetType": "second"
+      }
+   },
+   {
+      "statusCode": 200,
+      "body": {
+         "activities-heart": [
+            {
+               "customHeartRateZones": [],
+               "dateTime": "today",
+               "heartRateZones": [
+                  {
+                     "caloriesOut": 5.34828,
+                     "max": 92,
+                     "min": 30,
+                     "minutes": 4,
+                     "name": "Out of Range"
+                  },
+                  {
+                     "caloriesOut": 0,
+                     "max": 129,
+                     "min": 92,
+                     "minutes": 0,
+                     "name": "Fat Burn"
+                  },
+                  {
+                     "caloriesOut": 0,
+                     "max": 157,
+                     "min": 129,
+                     "minutes": 0,
+                     "name": "Cardio"
+                  },
+                  {
+                     "caloriesOut": 0,
+                     "max": 220,
+                     "min": 157,
+                     "minutes": 0,
+                     "name": "Peak"
+                  }
+               ],
+               "value": "76.33"
+            }
+         ],
+         "activities-heart-intraday": {
+            "dataset": [
+               {
+                  "time": "00:00:00",
+                  "value": 73
+               },
+               {
+                  "time": "00:00:05",
+                  "value": 74
+               },
+               {
+                  "time": "00:00:20",
+                  "value": 78
+               },
+               {
+                  "time": "00:00:25",
+                  "value": 78
+               },
+               {
+                  "time": "00:00:40",
+                  "value": 78
+               },
+               {
+                  "time": "00:00:55",
+                  "value": 77
+               },
+               {
+                  "time": "00:01:00",
+                  "value": 77
+               },
+               {
+                  "time": "00:01:15",
+                  "value": 77
+               },
+               {
+                  "time": "00:01:20",
+                  "value": 76
+               },
+               {
+                  "time": "00:01:25",
+                  "value": 76
+               },
+               {
+                  "time": "00:01:40",
+                  "value": 76
+               },
+               {
+                  "time": "00:01:55",
+                  "value": 77
+               },
+               {
+                  "time": "00:02:00",
+                  "value": 77
+               },
+               {
+                  "time": "00:02:10",
+                  "value": 78
+               },
+               {
+                  "time": "00:02:25",
+                  "value": 78
+               },
+               {
+                  "time": "00:02:30",
+                  "value": 77
+               },
+               {
+                  "time": "00:02:40",
+                  "value": 74
+               },
+               {
+                  "time": "00:02:50",
+                  "value": 73
+               }
+            ],
+            "datasetInterval": 1,
+            "datasetType": "second"
+         }
+      },
+      "headers": {
+         "server": "cloudflare-nginx",
+         "date": "Tue, 02 Feb 2016 23:42:30 GMT",
+         "content-type": "application/json;charset=UTF-8",
+         "transfer-encoding": "chunked",
+         "connection": "close",
+         "cache-control": "no-cache, private",
+         "fitbit-rate-limit-limit": "150",
+         "fitbit-rate-limit-remaining": "141",
+         "fitbit-rate-limit-reset": "1050",
+         "content-language": "en",
+         "vary": "Accept-Encoding",
+         "x-frame-options": "SAMEORIGIN",
+         "cf-ray": "26e9c0bf0b7542d0-ATL"
+      },
+      "request": {
+         "uri": {
+            "protocol": "https:",
+            "slashes": true,
+            "auth": null,
+            "host": "api.fitbit.com",
+            "port": 443,
+            "hostname": "api.fitbit.com",
+            "hash": null,
+            "search": null,
+            "query": null,
+            "pathname": "/1/user/-/activities/heart/date/today/1d/1sec/time/00:00/00:03.json",
+            "path": "/1/user/-/activities/heart/date/today/1d/1sec/time/00:00/00:03.json",
+            "href": "https://api.fitbit.com/1/user/-/activities/heart/date/today/1d/1sec/time/00:00/00:03.json"
+         },
+         "method": "GET",
+         "headers": {
+            "Authorization": "Bearer eyJhbGciOiJIUzI1NiJ9.eyJleHAiOjE0NTQ0NjAxNTAsInNjb3BlcyI6InJ3ZWkgcnBybyByaHIgcm51dCBybG9jIHJzbGUgcnNldCByc29jIHJhY3QiLCJzdWIiOiI0M1hTSkIiLCJhdWQiOiIyMjdHMlIiLCJpc3MiOiJGaXRiaXQiLCJ0eXAiOiJhY2Nlc3NfdG9rZW4iLCJpYXQiOjE0NTQ0NTY1NTB9._NS6-i8epCYfwDnqjx7P4CeYhinHn1O3nhsD6WzP0k4",
+            "accept": "application/json"
+         }
+      }
+   }
+]
